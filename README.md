@@ -1,4 +1,5 @@
 # Service Discovery
+[![Build Status](https://app.travis-ci.com/kva-devops/job4j_discovery.svg?branch=master)](https://app.travis-ci.com/kva-devops/job4j_discovery)
 
 ## О проекте
 Учебный проект демонстрирующий работу Service Discovery
