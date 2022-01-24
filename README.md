@@ -2,14 +2,14 @@
 [![Build Status](https://app.travis-ci.com/kva-devops/job4j_discovery.svg?branch=master)](https://app.travis-ci.com/kva-devops/job4j_discovery)
 
 ## О проекте
-####Описание
+#### Описание
 Учебный проект демонстрирующий работу Service Discovery, а точнее Client Side Service Discovery.
 Приложение *discoveryserver* выступает в роли Discovery Server.
 Экземпляры приложения *discoveryclient* будут передавать друг другу данные, при этом URL для 
 передачи они будут запрашивать у *discoveryserver*. Все экземпляры приложения в данном проекте
 запускаются на хостовой машине, на разных портах.
 
-####Технологии
+#### Технологии
 >JDK14, Maven, SpringBoot, SpringCloudEurekaServer, SpringCloudEurekaClient, REST API,
 
 ## Сборка
